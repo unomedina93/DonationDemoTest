@@ -2,7 +2,7 @@
 
 The Give page is used for users to donate to their organizations and churches.
 
-REQUIREMENTS - 
+REQUIREMENTS - \
 Node.js, 
 Cypress, 
 VS Code
