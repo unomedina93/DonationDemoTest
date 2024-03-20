@@ -8,7 +8,8 @@ Cypress,
 VS Code
 
 FAQs-
-iframe was difficult and took the bulk of time figuring out how to reference
+iframe was difficult and took the bulk of time figuring out how to reference.
+I had to remove the node_modules folder from within Cypress Automation as Github didnt allow it.
 
 TROUBLESHOOTING - 
 Add this command into the cypress.config.js file - chromeWebSecurity: false
