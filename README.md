@@ -9,7 +9,7 @@ VS Code
 
 FAQs-
 I had to remove the node_modules folder from within Cypress Automation as Github didnt allow it. I compressed the module file. 
-In order to run the test the node_modules file needs to be unzipped and placed within Cypress Automation. Cypress Automation\node_modules
+In order to run the test, the node_modules file needs to be unzipped and placed within Cypress Automation. Cypress Automation\node_modules
 
 TROUBLESHOOTING - 
 Add this command into the cypress.config.js file - chromeWebSecurity: false
