@@ -7,14 +7,14 @@ Node.js,
 Cypress, 
 VS Code
 
-FAQs-
+FAQs- \
 I had to remove the node_modules folder from within Cypress Automation as Github didnt allow it. I compressed the module folder. 
 In order to run the test, the node_modules folder needs to be unzipped and placed within Cypress Automation. Cypress Automation\node_modules
 
-Steps- 
+Steps- \
 
 
-HELP - 
+HELP -  \
 Documentation References:
 https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test
 
