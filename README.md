@@ -11,7 +11,7 @@ FAQs- \
 I had to remove the node_modules folder from within Cypress Automation as Github didnt allow it. I compressed the module folder. 
 In order to run the test, the node_modules folder needs to be unzipped and placed within Cypress Automation. Cypress Automation\node_modules
 
-Steps-\
+Steps-
 1. Download code zip
 2. Unzip code zip file
 3. Find the node_modules zip and unzip that as well
