@@ -12,7 +12,13 @@ I had to remove the node_modules folder from within Cypress Automation as Github
 In order to run the test, the node_modules folder needs to be unzipped and placed within Cypress Automation. Cypress Automation\node_modules
 
 Steps- \
-
+1. Download code zip
+2. Unzip code zip file
+3. Find the node_modules zip and unzip that as well
+4. Place the node_modules folder within Cypress Automation
+5. In Cypress, open Cypress Automation as the project folder
+6. Select e2e testing
+7. Select Electron for fastest experience
 
 HELP -  \
 Documentation References:\
